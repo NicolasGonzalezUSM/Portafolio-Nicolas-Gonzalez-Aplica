@@ -11,7 +11,7 @@
 # MAT281 - Aplicaciones de la Matemática en la Ingeniería
 
 ## Portafolio Personal
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NicolasGonzalezUSM/Portafolio-Nicolas-Gonzalez-Aplica.git/Portafolio Nicolas Gonzalez?filepath=C%3A%5CUsers%5CNikolo%5CDesktop%5CAplica%5CPortafolio-Nicolas-Gonzalez-Aplica)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/{NicolasGonzalezUSM}/mat281_portfolio/master?urlpath=lab)
 
 ### Setup
 

@@ -18,3 +18,6 @@
 Las instrucciones de uso se encuentran en [este](setup.md) siguiente archivo. 
 
 Para aquellos usuarios de Windows que quieran sacar partido, se recomienda mirar también [este](wsl_ds_toolkit.md) archivo, mostrando un entorno de trabajo con WSL.
+
+### Mi Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NicolasGonzalezUSM/Portafolio-Nicolas-Gonzalez-Aplica.git/HEAD)
